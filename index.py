@@ -1,1 +1,1 @@
-'hello github'
+print('github,您好')
